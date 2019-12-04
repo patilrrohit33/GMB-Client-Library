@@ -1,7 +1,7 @@
 {
     "name": "patilrrohit33/gmb-client-library",
     "type": "library",
-    "version": "1.0.0",
+    "minimum-stability": "stable",
     "description": "Google my business client library",
     "authors": [
         {
